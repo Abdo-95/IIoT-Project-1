@@ -1,0 +1,5 @@
+azure-cosmosdb-table==1.0.6
+azure-storage-queue==1.0.0
+opcua==0.98.12
+cryptography==3.1.1 
+azure-iot-device==2.2.0
